@@ -24,3 +24,12 @@ HTM 아카이브 혹은 HTML로 저장한 체크리스트 페이지 파일을 �
 PR(Pull request)로 파일을 업로드 할 수도 있습니다.
 그러나 PR의 체크리스트가 익명으로 되어 있지 않으면
 누군가는 업로드 전에 체크리스트를 익명으로 만들어야 할 것입니다.
+
+## [pt] Contribuição
+Caso você queira adicionar uma lista de verificação a este repositório,
+salve a página da lista de verificação como arquivo HTM ou arquivo HTML,
+crie um problema sem título nem descrição e adicione-o lá.
+
+Você também pode enviar um PR
+mas se a lista de verificação nesse PR não for anônima
+então alguém ainda precisaria anonimizá-lo antes de postar.
